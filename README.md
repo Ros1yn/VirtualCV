@@ -4,6 +4,6 @@ This is a simple HTML & CSS project to showcase my knowledge of these technologi
 
 # Images
 
-![image alt](https://github.com/Ros1yn/VirtualCV/blob/Ros1yn-readme/git1.png)
-![image alt](https://github.com/Ros1yn/VirtualCV/blob/Ros1yn-readme/git2.png)
-![image alt](https://github.com/Ros1yn/VirtualCV/blob/Ros1yn-readme/git3.png)
+![image alt](https://github.com/Ros1yn/VirtualCV/blob/main/git1.png)
+![image alt](https://github.com/Ros1yn/VirtualCV/blob/main/git2.png)
+![image alt](https://github.com/Ros1yn/VirtualCV/blob/main/git3.png)
